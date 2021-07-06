@@ -164,4 +164,4 @@ async def showList(ctx):
 
 
 
-bot.run("NTAxOTU1NzQ4NjA0MTQ5Nzcw.DrFQyg.5XwuartdG-jMwT0p2Apspp6NQqc")
+bot.run("BOT TOKEN GOES HERE")
